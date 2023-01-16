@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspWithVue", "AspWithVue\AspWithVue.csproj", "{272CA9BB-95F1-439D-8E8D-259FF43097E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vue-asp", "Vue-asp", "{EA7D557C-46F1-46F4-B9EF-A57B5391FEB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272CA9BB-95F1-439D-8E8D-259FF43097E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272CA9BB-95F1-439D-8E8D-259FF43097E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272CA9BB-95F1-439D-8E8D-259FF43097E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272CA9BB-95F1-439D-8E8D-259FF43097E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
